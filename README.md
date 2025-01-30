@@ -1,4 +1,4 @@
-# Data Processing at Scale
+# BigData-Processing-Analytics
 
 ## Overview
 This repository contains two projects demonstrating large-scale data processing techniques.
