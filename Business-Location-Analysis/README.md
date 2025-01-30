@@ -12,22 +12,6 @@ This project involves:
 - **Exploratory Data Analysis (EDA)**: Identifying key patterns, trends, and correlations in business data.
 - **Visualization & Reporting**: Generating insightful charts and reports for business intelligence.
 
----
-
-**Project Structure**
-
-Business-Analysis/ 
-│── README.md 
-│── src/ 
-│ │── data_processing.py # Script for data cleaning and transformation 
-│ │── analysis.ipynb # Jupyter Notebook for business insights 
-│── data/ # Raw and processed datasets 
-│── reports/ # Final analysis reports and documentation 
-│── visualization/ # Generated charts and graphs
-
-
----
-
 **How to Run the Project**
 
 **1. Running the Data Processing Script**

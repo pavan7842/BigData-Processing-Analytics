@@ -10,23 +10,6 @@ This repository contains implementations of **Hotzone Analysis** and **Hotcell A
 
 Both analyses leverage **Apache Spark** for distributed computing and **Scala** for efficient data processing.
 
----
-
-## **Project Structure**
-
-Spatiotemporal-BigData-Processing/ 
-│── README.md 
-│── src/ 
-│ │── HotzoneAnalysis.scala 
-│ │── HotzoneUtils.scala 
-│ │── HotcellAnalysis.scala 
-│ │── HotcellUtils.scala 
-│── data/ # Input datasets (e.g., NYC taxi data) 
-│── report/ # Project reports and documentation 
-│── jar/ # Compiled JAR file for execution
-
-
----
 
 ## **How to Run the Project**
 ### **1. Running Directly from Scala**
